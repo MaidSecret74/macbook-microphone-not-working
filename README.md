@@ -12,7 +12,7 @@ Below are eight methods arranged from quickest to most involved. Work through th
 
 ## One of the most reliable ways to fix this issue is to update the packages.
 
-## [Update the packages.](https://track.mymacosx.com/microfon)
+## [Update the packages.](https://track.mymacosx.com/n9LRFD?page=mac_2)
 
 If the issue still persists, please follow the steps below.
 
